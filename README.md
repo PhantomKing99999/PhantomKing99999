@@ -90,10 +90,9 @@ Good first choices based on your resume:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PhantomKing99999&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Andy's GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=PhantomKing99999&theme=github-dark-blue&hide_border=true" alt="Andy's GitHub streak" />
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomKing99999&theme=github-compact&hide_border=true&area=true" alt="Andy's GitHub activity graph" /></a>
+<a href="https://github.com/cicirello/user-statistician"><img width="95%" src="./images/userstats.svg" alt="Andy's GitHub activity and language statistics" /></a>
 
 </div>
 
@@ -112,9 +111,9 @@ Good first choices based on your resume:
 <h3>Watch my contributions get eaten 🐍</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhantomKing99999/PhantomKing99999/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhantomKing99999/PhantomKing99999/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/PhantomKing99999/PhantomKing99999/output/github-contribution-grid-snake.svg" alt="A snake eating Andy's GitHub contributions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhantomKing99999/PhantomKing99999/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhantomKing99999/PhantomKing99999/output/github-contribution-grid-snake.svg?v=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/PhantomKing99999/PhantomKing99999/output/github-contribution-grid-snake.svg?v=2" alt="A snake eating Andy's GitHub contributions" />
 </picture>
 
 <sub>Always curious about ambitious robotics, AI, and computational science projects.</sub>
